@@ -17,7 +17,7 @@ function Home() {
                         <div className="intro-content d-flex justify-content-between">
                             <button className="primary-button1 font-bold animate__animated animate__fadeIn">Hire Me</button>
 
-                            <button className="primary-button font-bold animate__animated animate__fadeIn"><a href="" download>Resume <IoDownloadOutline /></a></button>
+                            <button className="primary-button font-bold animate__animated animate__fadeIn"><a href="https://bit.ly/ganeshks-resume" download>Resume <IoDownloadOutline /></a></button>
                         </div>
                     </div>
                 </div>
